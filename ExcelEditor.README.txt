@@ -1,0 +1,9 @@
+The ExcelEditor python file is one I created using openpyxcel. The idea is that it allows one
+to track basic aspects of their personal finances through a python file that utilizes Microsoft
+Excel by extension. Via some command line input, one can use this python file to inquire into 
+one's own spending habits while also being able to input basic spending information based upon
+a few pre-made categories I added. If this file is being downloaded or utilized on another device
+all one need do is set the "default" variable to the location of the dowloaded excel file I provided
+on your device and it should work swimmingly. There is also the ability to summate and view one's 
+spending over all the categories as well as the ablity to erase all the data present on the excel
+file. The command line input is rudimentary and simple, but it functions how it should
