@@ -1,0 +1,9 @@
+This file is a rendition of the classic game of snake that can be played on most any 
+computer to date. I utilized the curses library so as to create the visual product that 
+can be played by the user. This allowed for the creation of a rectangular grid by which the 
+game could be displayed as well as a way by which to create the illusion of movement within
+the grid. a random integer generator is utilized to determine the location of the food that
+is used within the game. The snake is of course represented by a list of points 
+whereby you pop the bottom part of the snake and add on to the top to create 'movement' through the 
+two-dimensional plane. A few break statements allow one to fail the game, say if they were to
+hit the edges of the playing field or run into themselves.
